@@ -1,2 +1,3 @@
 # comp220-portfolio
-Base repository for the COMP220 assignment #1 (Portfolio of Game Engine Components)
+This is the code i have it does not work, what a suprise !
+
