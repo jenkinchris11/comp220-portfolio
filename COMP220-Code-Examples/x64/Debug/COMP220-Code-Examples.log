@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\chris\desktop\comp220-code-examples-07-specular-lighting\comp220-code-examples\main.cpp(175): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+c:\users\chris\desktop\comp220-code-examples-07-specular-lighting\comp220-code-examples\main.cpp(176): warning C4244: 'initializing': conversion from 'Sint32' to 'float', possible loss of data
+  COMP220-Code-Examples.vcxproj -> C:\Users\Chris\Desktop\comp220-code-examples-07-Specular-Lighting\x64\Debug\COMP220-Code-Examples.exe
+          1 file(s) copied.
+          1 file(s) copied.
+  0 File(s) copied
+          1 file(s) copied.
